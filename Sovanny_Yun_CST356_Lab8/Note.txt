@@ -1,0 +1,26 @@
+Exercise 1
+1. DONE 
+2. DONE
+3. DONE
+4. [Key] attribute maps the primary key column to the database
+5. DONE
+6. DONE
+7. ConnectionString is the path to the database. EntityFramework is defaulted to use LocaDb. By adding a new ConnectionString, we      basically specify a certian database to be used
+8.  DONE
+9.  DONE
+10. DONE
+11. DONE
+12. DONE
+13. DONE
+
+Exercise 2
+1. DONE
+2. DONE
+3. DONE
+4. DONE
+
+Exercise 3
+1. DONE
+2. DONE
+3. DONE
+4. DONE
